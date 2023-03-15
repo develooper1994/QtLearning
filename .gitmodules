@@ -1,0 +1,6 @@
+[submodule "Qt5WidgetLearning"]
+	path = Qt5WidgetLearning
+	url = https://github.com/develooper1994/Qt5WidgetLearning
+[submodule "Qt6CoreLearning"]
+	path = Qt6CoreLearning
+	url = https://github.com/develooper1994/Qt6CoreLearning
